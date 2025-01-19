@@ -16,19 +16,28 @@ const Footer = () => {
           Created by Tushar <i class="fa-solid fa-heart"></i>
         </p>
         <div class="links">
-          <a class="link" href="https://linkedin.com/in/tushar-sanisare">
+          <a
+            target="_blank"
+            class="link"
+            href="https://linkedin.com/in/tushar-sanisare"
+          >
             <i class="fa-brands fa-linkedin"></i>
           </a>
-          <a class="link" href="https://twitter.com/tushar_sanisare">
+          <a
+            target="_blank"
+            class="link"
+            href="https://twitter.com/tushar_sanisare"
+          >
             <i class="fa-brands fa-square-twitter"></i>
           </a>
           <a
+            target="_blank"
             class="link"
             href="https://github.com/TusharSanisare/AI-Email-Writer-Chrome-Extension"
           >
             <i class="fa-brands fa-square-github"></i>
           </a>
-          <a class="link" href="tsanisare@gmail.com">
+          <a target="_blank" class="link" href="tsanisare@gmail.com">
             <i class="fa-solid fa-envelope"></i>
           </a>
         </div>
